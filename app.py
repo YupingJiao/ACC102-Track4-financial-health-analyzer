@@ -778,8 +778,8 @@ def main():
     st.sidebar.markdown("---")
     st.sidebar.markdown("### 🔑 API Configuration")
     
-    # Try to get API key from environment first
-    env_api_key = os.getenv('ALPHA_VANTAGE_API_KEY', '')
+    # Read API key from Streamlit Secrets (Cloud deployment exclusive)
+    env_api_key = st.secrets.get("ALPHA_VANTAGE_API_KEY", "")
     
     if env_api_key:
         st.sidebar.success("✅ API key loaded from .env file")
