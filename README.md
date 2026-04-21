@@ -276,7 +276,7 @@ More educational content - Explain what each ratio means in plain language
 
 Historical trends - Show 5-10 year trends, not just 3 years
 
-File Structure
+
 
 ##### \---
 
