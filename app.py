@@ -15,15 +15,13 @@ import plotly.graph_objects as go
 import plotly.express as px
 from datetime import datetime
 from typing import Dict, List, Optional, Tuple
-from dotenv import load_dotenv
-import os
 import time
 import warnings
 
 warnings.filterwarnings('ignore')
 
-# Load environment variables
-load_dotenv()
+## Fetch API key via Streamlit Secrets for cloud hosting 
+api_key = st.secrets["ALPHA_VANTAGE_API_KEY"]
 
 # ============================================================================
 # CONSTANTS - I put these at the top so they're easy to find and modify
