@@ -1,1 +1,21 @@
 # ACC102-Track4-financial-health-analyzer
+# Financial Health Analyzer - Dependencies
+# ACC102 Mini Assignment - Track 4
+# Student: Yuping Jiao (ID: 2472725)
+# Core Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+# Web Application Framework
+streamlit>=1.28.0
+# Data Visualization
+plotly>=5.18.0
+# HTTP Requests
+requests>=2.31.0
+# Environment Variables
+python-dotenv>=1.0.0
+# Jupyter Notebook Support (for analysis notebook)
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.25.0
+# Optional: For better performance
+openpyxl>=3.1.0  # Excel file support
