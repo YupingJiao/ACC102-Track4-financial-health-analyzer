@@ -1,6 +1,6 @@
 ###### ACC102 Mini Assignment - Track 4（ https://acc102-track4-financial-health-analyzer-aevy2ypeuyjwwll8nzqrp.streamlit.app/ ）
 
-###### Financial Health Analyzer        (【Yuping jiao作为XP会计生的第一份编程作业视频】 https://www.bilibili.com/video/BV17qoxBVEEi/?                                                              share_source=copy_web&vd_source=0a8de82945becd0b9c0ba983cef8861d)
+###### Financial Health Analyzer        (【Yuping jiao's vedio link 】 https://www.bilibili.com/video/BV17qoxBVEEi/?                                                                          share_source=copy_web&vd_source=0a8de82945becd0b9c0ba983cef8861d)
 
 ###### Student Name：Yuping Jiao
 
